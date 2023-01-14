@@ -22,7 +22,7 @@
 |    | [How many lightsabers do you own?](https://www.codewars.com/kata/51f9d93b4095e0a7200001b8) |[Javascript](./KYU8/lightsabers.js)|KYU-8 |
 |    | [Training JS #7: if..else and ternary operator](https://www.codewars.com/kata/57202aefe8d6c514300001fd) |    [Javascript](./KYU-8/ternary_operator.js)    | KYU-8  |
 |    | [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028) |    [Javascript](./KYU-8/Powers_of_2.js)    | KYU -8     |
-|    | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b)  [Javascript](./KYU8/Cat_years_Dog_years.js)|KYU-8|
+|    | [Cat years, Dog years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) |    [Javascript](./KYU-8/Cat_years_Dog_years.js)    | KYU-8        |
 |    | [Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039) |    [Javascript](./KYU-8/Vowel_remover.js)   | KYU-8   |
 |    | [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217) |[Javascript](./KYU8/Collatz_Conjecture.js) | KYU-8 |
 |    | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Javascript](./KYU-8/Beginner.js)|KYU-8  |
