@@ -6,7 +6,6 @@
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
 |    | []() |    [Javascript](./KYU-)    | KYU        |
 |    | []() |    [Javascript](./KYU-)    | KYU        |
-
 |    | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) |    [Javascript](./KYU-6/Highest.js) | KYU-6    |
 |    | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) |    [Javascript](./KYU-6/Number.js)  | KYU-6     |
 |    | [Count consonants](https://www.codewars.com/kata/564e7fc20f0b53eb02000106) |    [Javascript](./KYU-7/consonants.js)  | KYU-7    |
