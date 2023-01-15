@@ -25,6 +25,9 @@
 |    | [Vowel remover](https://www.codewars.com/kata/5547929140907378f9000039) |    [Javascript](./KYU-8/Vowel_remover.js)   | KYU-8   |
 |    | [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217) |[Javascript](./KYU8/Collatz_Conjecture.js) | KYU-8 |
 |    | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Javascript](./KYU-8/Beginner.js)|KYU-8  |
+|    | [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) |    [Javascript](./KYU-8/Reversed_Words.js)  | KYU-8  |
+|    | [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) |    [Javascript](./KYU-7/Reverse_Letter.js) | KYU-7 |
+|    | [Strict Mode](https://www.codewars.com/kata/639918bef003910b2146d0b8) |    [Javascript](./KYU-7/Strict_Mode.js)    | KYU-7      |
  
 
 
