@@ -28,6 +28,9 @@
 |    | [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217) |[Javascript](./KYU8/Collatz_Conjecture.js) | KYU-8 |
 |    | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Javascript](./KYU-8/Beginner.js)|KYU-8  |
 |    | [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) |    [Javascript](./KYU-8/Reversed_Words.js)  | KYU-8  |
- 
+|    | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |    [Javascript](./KYU-7/Sum_of_angles.js)    | KYU-7       | 
+
+|    | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) |    [Javascript](./KYU-7/Sum_of_odd_numbers.js)    | KYU-7       |
+|    | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014) |    [Javascript](./KYU-8/Third_Angle_of_Triangle.js)    | KYU-8       |
 
 
