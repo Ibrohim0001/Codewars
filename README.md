@@ -8,6 +8,8 @@
 |    | []() |    [Javascript](./KYU-)    | KYU        |
 |    | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) |    [Javascript](./KYU-6/Highest.js) | KYU-6    |
 |    | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) |    [Javascript](./KYU-6/Number.js)  | KYU-6     |
+|    | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |    [Javascript](./KYU-7/Sum_of_angles.js) | KYU-7     | 
+|    | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) [Javascript](./KYU-7/Sum_of_odd_numbers.js)|KYU-7  |
 |    | [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) |    [Javascript](./KYU-7/Reverse_Letter.js) | KYU-7 |
 |    | [Count consonants](https://www.codewars.com/kata/564e7fc20f0b53eb02000106) |    [Javascript](./KYU-7/consonants.js)  | KYU-7    |
 |    | [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020) |    [Javascript](./KYU-7/Digit.js)    | KYU-7     |
@@ -28,9 +30,6 @@
 |    | [Collatz Conjecture (3n+1)](https://www.codewars.com/kata/577a6e90d48e51c55e000217) |[Javascript](./KYU8/Collatz_Conjecture.js) | KYU-8 |
 |    | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Javascript](./KYU-8/Beginner.js)|KYU-8  |
 |    | [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) |    [Javascript](./KYU-8/Reversed_Words.js)  | KYU-8  |
-|    | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |    [Javascript](./KYU-7/Sum_of_angles.js)    | KYU-7       | 
-
-|    | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) |    [Javascript](./KYU-7/Sum_of_odd_numbers.js)    | KYU-7       |
-|    | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014) |    [Javascript](./KYU-8/Third_Angle_of_Triangle.js)    | KYU-8       |
+|    | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014) |[Javascript](./KYU-8/Third_Angle_of_Triangle.js)|KYU-8 |
 
 
