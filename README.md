@@ -8,7 +8,6 @@
 |    | []() |    [Javascript](./KYU-)    | KYU        |
 |    | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |   [Javascript](./KYU-5/moving_zeros.js)  | KYU-5 |
 |    | [Smart Sum](https://www.codewars.com/kata/5831200eb812b8016d000094) |    [Javascript](./KYU-6/Smart_Sum.js)    | KYU-6       |
-|    | [Smart Sum](https://www.codewars.com/kata/54e6533c92449cc251001667) |    [Javascript](./KYU-6/Unique_Order.js) | KYU-6    |
 |    | [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) |    [Javascript](./KYU-6/Unique_Order.js) | KYU-6    |
 |    | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) |    [Javascript](./KYU-6/Highest.js) | KYU-6    |
 |    | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) |    [Javascript](./KYU-6/Number.js)  | KYU-6     |
