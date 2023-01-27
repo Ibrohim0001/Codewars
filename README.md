@@ -35,5 +35,6 @@
 |  3  | [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Javascript](./KYU-8/Beginner.js)|KYU-8  |
 |  2  | [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) |    [Javascript](./KYU-8/Reversed_Words.js)  | KYU-8  |
 |  1  | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014) |[Javascript](./KYU-8/Third_Angle_of_Triangle.js)|KYU-8 |
+|    | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) |    [Javascript](./KYU-8/evenorodd.js)    | KYU-8        |
 
 
