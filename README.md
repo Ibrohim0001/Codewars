@@ -12,6 +12,7 @@
 |    | [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667) |    [Javascript](./KYU-6/Unique_Order.js) | KYU-6    |
 |    | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) |    [Javascript](./KYU-6/Highest.js) | KYU-6    |
 |    | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) |    [Javascript](./KYU-6/Number.js)  | KYU-6     |
+|    | [ Sum of Numbers](https://www.codewars.com/kata/55f2b110f61eb01779000053) | [Javascript](./KYU-7/Sum_of_Numbers.js)|KYU-7       |
 |    | [Sum of angles](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) |    [Javascript](./KYU-7/Sum_of_angles.js) | KYU-7     | 
 |    | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)| [Javascript](./KYU-7/Sum_of_odd_numbers.js)|KYU-7  |
 |    | [Simple Fun #176: Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b) |    [Javascript](./KYU-7/Reverse_Letter.js) | KYU-7 |
