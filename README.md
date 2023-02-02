@@ -6,6 +6,7 @@
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
 |    | []() |    [Javascript](./KYU-)    | KYU        |
 |    | []() |    [Javascript](./KYU-)    | KYU        |
+|    | []() |    [Javascript](./KYU-)    | KYU        |
 |    | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) |   [Javascript](./KYU-5/moving_zeros.js)  | KYU-5 |
 |    | [Two cube sums](https://www.codewars.com/kata/55fd4919ce2a1d7c0d0000f3) |    [Javascript](./KYU-6/Two_cube_sums.JS) | KYU-6  |
 |    | [Smart Sum](https://www.codewars.com/kata/5831200eb812b8016d000094) |    [Javascript](./KYU-6/Smart_Sum.js)    | KYU-6       |
